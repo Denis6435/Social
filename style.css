@@ -1,0 +1,35 @@
+ div {
+ 	
+ 	 width: 100%;
+ }
+
+ ul {
+
+	text-align: center;
+    list-style: none;
+ }
+
+ li {
+ 	
+
+  
+     display: inline; 
+   
+ }
+
+i:before {
+
+font-family: FontAwesome;
+color: #E50000;
+margin-right: 30px; 
+}
+
+
+a{
+	text-decoration:none; 
+}
+
+body{
+	box-sizing: border-box;
+}
+
